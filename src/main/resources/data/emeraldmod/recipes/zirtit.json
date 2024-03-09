@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a ",
+    "aaa",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "emeraldmod:zirtit_shard"
+    }
+  },
+  "result": {
+    "item": "emeraldmod:zirtit",
+    "count": 1
+  }
+}

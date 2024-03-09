@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "emeraldmod:raw_zirtit"
+  },
+  "result": "emeraldmod:zirtit_shard"
+}
